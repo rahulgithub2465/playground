@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "ae.dfm.ivestorapp",
+               "sha256_cert_fingerprints": ["12:F7:AB:44:7F:DF:7D:89:7A:47:0C:2A:5F:A5:03:59:AE:6E:A5:B0:A5:E5:D3:15:CB:46:B7:38:BE:A1:F4:65"] }
+}]
